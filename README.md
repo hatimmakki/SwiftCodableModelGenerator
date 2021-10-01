@@ -24,6 +24,8 @@ python3 swiftModeler.py products.json Product
 
 # Roadmap:
 
+- [ ] Add unit tests
 - [ ] The json file can be eitehr an object or list of objects.
 - [ ] Default model name if it's not provided in the command.
 - [ ] The json file can have nested objects.
+- [ ] CI/CD
