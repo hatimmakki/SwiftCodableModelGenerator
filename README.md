@@ -1,4 +1,7 @@
-# SwiftCodableModelGenerator
+![](https://repository-images.githubusercontent.com/412517075/d07cae05-6d5e-4f70-9fa0-4ced237ac1ec)
+
+
+# Swift Codable Model Generator
 A simple script to generate swift model file from a json file.
 
 # Usage Example
