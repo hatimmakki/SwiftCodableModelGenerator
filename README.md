@@ -8,7 +8,7 @@ A simple script to generate swift model file from a json file.
 
 1. Run the terminal
 2. Go to the folder where you want to save the generated swift model file
-3. run the following command:
+3. place the python file and run the following command:
 
 ```
 python3 swiftModeler.py products.json Product
